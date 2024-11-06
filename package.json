@@ -1,5 +1,5 @@
 {
-  "name": "global-zipcode-formatter",
+  "name": "zipcode-formatter",
   "version": "1.0.0",
   "description": "A utility package for formatting and validating zip codes for multiple countries. Supports global postal code formats and can validate the correctness of zip codes based on country-specific patterns.",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "zipcode",
     "formatter"
   ],
-  "author": "eldhosee2@gmail.com",
+  "author": "Eldhose Elias <eldhosee2@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eldhoseelias/global-zipcode-formatter/issues"
