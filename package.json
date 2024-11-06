@@ -1,0 +1,35 @@
+{
+  "name": "global-zipcode-formatter",
+  "version": "1.0.0",
+  "description": "A utility package for formatting and validating zip codes for multiple countries. Supports global postal code formats and can validate the correctness of zip codes based on country-specific patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "testMatch": ["**/?(*.)+(spec|test).js"]
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldhoseelias/global-zipcode-formatter.git"
+  },
+  "keywords": [
+    "zipcode",
+    "global",
+    "zipcode",
+    "postal",
+    "postal",
+    "codes",
+    "zipcode",
+    "formatter"
+  ],
+  "author": "eldhosee2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eldhoseelias/global-zipcode-formatter/issues"
+  },
+  "homepage": "https://github.com/eldhoseelias/global-zipcode-formatter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
